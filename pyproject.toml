@@ -1,0 +1,7 @@
+[project]
+name = "genpark-synthetic-test-data-generator-and-schema-fuzzer-skill"
+version = "1.0.0"
+description = "Deterministic mock data synthesizer, JSON schema boundary fuzzer, and edge-case generator"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
